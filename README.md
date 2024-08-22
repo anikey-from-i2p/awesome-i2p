@@ -20,6 +20,7 @@ I2P is used by many people who care about their privacy: activists, oppressed pe
 - [Libraries](#libraries)
 - [Automation](#automation)
 - [Guides](#guides)
+- [Network Resources](#network-resources)
 - [Unfinished implementations](#unfinished-implementations)
 - [Publications](#publications)
 
@@ -114,6 +115,12 @@ I2P is used by many people who care about their privacy: activists, oppressed pe
 ## Guides
 
 * [tutorial-darknet](https://github.com/ReK2Fernandez/tutorial-darknet) - Follow up files/scripts for i2pd+vpn+ubuntu remote i2p router setup.
+
+## Network Resources
+
+Jumpstart your exploration of the community here. (Might not be accessible outside of I2P)
+
+* [Eepsites on I2P Wiki](http://wiki.i2p-projekt.i2p/wiki/index.php/Eepsite/Services) - Lists various services.
 
 ## Unfinished implementations
 
