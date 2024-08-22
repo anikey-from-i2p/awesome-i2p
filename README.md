@@ -38,6 +38,7 @@ I2P is used by many people who care about their privacy: activists, oppressed pe
 
 ### I2Pd
 * [I2Pd](https://github.com/PurpleI2P/i2pd) - A C++ implementation of a I2P router.
+* [I2Pd Android](https://github.com/PurpleI2P/i2pd-android) - Android release of the I2Pd router (Get it on [F-Droid](https://f-droid.org/en/packages/org.purplei2p.i2pd/)).
 * [Kovri](https://gitlab.com/kovri-project/kovri) - The Kovri I2P Router Project, a fork of I2Pd by the Monero project.
 
 ## Projects using I2P
