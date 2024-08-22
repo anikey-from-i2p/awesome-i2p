@@ -34,8 +34,7 @@ I2P is used by many people who care about their privacy: activists, oppressed pe
 
 ### I2P
 * [I2P](https://github.com/i2p/i2p.i2p) - The first implementation. Written in Java.
-* [I2P Android](https://play.google.com/store/apps/details?id=net.i2p.android) - Android release of the I2P router. (Google play)
-* [I2P Android](https://f-droid.org/packages/net.i2p.android.router/) - Android release of the I2P router. (F-Droid)
+* [I2P Android](https://github.com/i2p/i2p.android.base) - Android release of the I2P router (Get it on [F-Droid](https://f-droid.org/packages/net.i2p.android.router/) or [Google Play](https://play.google.com/store/apps/details?id=net.i2p.android)).
 
 ### I2Pd
 * [I2Pd](https://github.com/PurpleI2P/i2pd) - A C++ implementation of a I2P router.
