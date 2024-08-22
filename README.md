@@ -8,7 +8,6 @@ A curated list of awesome I2P implementations, libraries, resources, projects, a
 I2P is an anonymous overlay network - a network within a network. It is intended to protect communication from dragnet surveillance and monitoring by third parties such as ISPs.
 I2P is used by many people who care about their privacy: activists, oppressed people, journalists and whistleblowers, as well as the average person.
 
-
 ### Contents
 - [The I2P Project](#the-i2p-project)
 - [Implementations](#implementations)
@@ -23,7 +22,6 @@ I2P is used by many people who care about their privacy: activists, oppressed pe
 - [Guides](#guides)
 - [Unfinished implementations](#unfinished-implementations)
 - [Publications](#publications)
-
 
 ## The I2P Project
 
@@ -55,7 +53,6 @@ I2P is used by many people who care about their privacy: activists, oppressed pe
 * [i2pchat](https://github.com/hypnosis-i2p/i2pchat) - I2PChat. Previously I2P Qt Messenger.
 * [cliqueclique](https://github.com/redhog/cliqueclique) - p2p forum on top of i2p.
 
-
 ## Tools
 
 * [i2p-tools](https://github.com/MDrollette/i2p-tools) - This tool provides a secure and efficient reseed server for the I2P network. There are several utility commands to create, sign, and validate SU3 files.
@@ -73,7 +70,6 @@ I2P is used by many people who care about their privacy: activists, oppressed pe
 
 * [i2pd-webui](https://github.com/l-n-s/i2pd-webui) - Fancy i2pd web user interface.
 
-
 ## Self Hosted
 
 * [tahoe-lafs-i2p](https://github.com/chris-barry/tahoe-lafs-i2p) - Tahoe-LAFS is a Free and Open decentralized cloud storage system. It distributes your data across multiple servers. Even if some of the servers fail or are taken over by an attacker, the entire file store continues to function correctly, preserving your privacy and security.
@@ -90,7 +86,6 @@ I2P is used by many people who care about their privacy: activists, oppressed pe
 * [meeh/i2p.i2p](https://hub.docker.com/r/meeh/i2p.i2p/) - Prebuilt i2p docker image.
 * [i2p-docker](https://github.com/hkparker/i2p-docker) - Java I2P router in Docker.
 * [i2pd-docker](https://github.com/hexaedron/i2pd-docker) - Dockerfile and some scripts to run i2pd in a container.
-
 
 ## Libraries
 
@@ -120,7 +115,6 @@ I2P is used by many people who care about their privacy: activists, oppressed pe
 
 * [tutorial-darknet](https://github.com/ReK2Fernandez/tutorial-darknet) - Follow up files/scripts for i2pd+vpn+ubuntu remote i2p router setup.
 
-
 ## Unfinished implementations
 
 * [go-i2p](https://github.com/hkparker/go-i2p) - A pure Go implementation of the I2P router.
@@ -143,8 +137,3 @@ I2P is used by many people who care about their privacy: activists, oppressed pe
 * [A Bird's Eye View on the I2P Anonymous File-sharing Environment](http://hal.inria.fr/hal-00744919/PDF/A_Birda_s_Eye_View_on_the_I2P_Anonymous_0AFile-sharing_Environment_0A.pdf)
 * [Improving Content Availability in the I2P Anonymous File-Sharing Environment](http://hal.inria.fr/hal-00744922/PDF/Improving_Content_Availability_in_the_I2P_0AAnonymous_File-Sharing_Environment_0A.pdf)
 * [Practical Attacks Against the I2P Network](https://wwwcip.informatik.uni-erlangen.de/~spjsschl/i2p.pdf)
-
-
-
-
-
